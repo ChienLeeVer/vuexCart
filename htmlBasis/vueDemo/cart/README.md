@@ -24,3 +24,5 @@ npm run test
 ```
 npm run lint
 ```
+### you need to install some required modules for this demo
+npm install --save-dev vuex@3 vue-router@3
